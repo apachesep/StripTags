@@ -26,5 +26,6 @@ $stripper->text($text = ''); // defines text for stripping
 $stripper->allow(['a']); // same as strip_tags('some tag text', '<a>');
 $stripper->except(['a']); // means strip only <a> tags/elements
 $stripper->strip(); // stripes text
+```
 ### Tip
 > in a moment only use allow() or except() not both
