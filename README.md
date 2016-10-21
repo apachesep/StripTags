@@ -1,7 +1,8 @@
 > this branch is deprecated!
 > please use new branches
 
-# StripTags
+$project
+========
 
 PHP strip_tags() function only allow to strip tags that are in a string as second parameter!
 and I found i need a solution to strip only some tags!
